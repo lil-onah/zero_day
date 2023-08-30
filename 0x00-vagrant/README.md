@@ -1,0 +1,1 @@
+A vagrant file
